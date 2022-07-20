@@ -33,6 +33,3 @@
 # alas = int(input('Masukkan nilai alas segitiga: '))
 # tinggi = int(input('Masukkan nilai tinggi segitiga: '))
 # print('Luas segitiga dengan alas {} dan tinggi {} adalah {}'.format(alas, tinggi, luas_segitiga(alas, tinggi)))
-
-
-## latihan 6
